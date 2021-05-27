@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Header</title>
+<style type="text/css">
+
+body{
+padding: 0px;
+margin:0px;
+font-family: sans-serif;
+}
+.title{
+text-align: center;
+font-size: 60px;
+font-family: sans-serif;
+background-color: gray;
+padding:10px;
+}
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    }
+    
+ul{
+list-style-type: none;
+padding:0px;
+margin:0px;
+display:flex;
+background-color: black;
+overflow:hidden;
+}
+
+li{
+float:left;
+flex: auto;
+}
+
+li a{
+padding:14px 18px;
+color:white;
+display: block;
+text-decoration: none;
+font-family: sans-serif;
+}
+
+li a:hover {
+	background-color: gray;
+	color: black;
+}
+</style>
+</head>
+<body>
+ <div class="header">
+ <div class="title"> Student Management system </div>
+ <ul class="menu">
+   <li><a href="./admin_home.jsp">Home</a></li>
+   <li><a href="./add_student.jsp">Add Student</a></li>
+   <li><a href="./ViewAllStudentsController">View All</a></li>
+   <li><a href="./delete_student.jsp">Delete</a></li>
+   <li><a href="./update_student.jsp">Update</a></li>
+   <li><a href="#">Contact Us</a></li>
+ </ul>
+ </div>
+</body>
+</html>
