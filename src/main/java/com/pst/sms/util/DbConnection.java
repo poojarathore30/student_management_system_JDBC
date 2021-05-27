@@ -15,7 +15,7 @@ public class DbConnection {
 				e.printStackTrace();
 			}
 			try {
-				con=DriverManager.getConnection("jdbc:mysql://localhost:3306/sms\",\"root\",\"pooja");
+				con=DriverManager.getConnection("jdbc:mysql://localhost:3306/sms\",\"<username>\",\"<password>");
 			} catch (SQLException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
