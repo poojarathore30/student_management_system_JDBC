@@ -13,16 +13,16 @@
 
 ### HTML layouts
        - home page creation
-      - header creation
-		  - Footer creation
-		  - Navmenu bar creation
+       - header creation
+       - Footer creation
+       - Navmenu bar creation
 
 ### -JSP follow-ups
          - HTML form creation
          - validation using Javascript
-             - DOM
-             - alert msg
-             - innerHTML msg
+         - DOM
+         - alert msg
+         - innerHTML msg
 ### JEE MVC architecture Highlevel Explanation
           - J2EE MVC pattern
           - Form object
@@ -37,7 +37,11 @@
 
 
 # Project Perspective
-![]()
+![](https://github.com/poojarathore30/student_managemnet_system-JDBC/blob/master/images/sms1.PNG)
+![](https://github.com/poojarathore30/student_managemnet_system-JDBC/blob/master/images/sms2.PNG)
+![](https://github.com/poojarathore30/student_managemnet_system-JDBC/blob/master/images/sms3.PNG)
+![](https://github.com/poojarathore30/student_managemnet_system-JDBC/blob/master/images/sms4.PNG)
+![](https://github.com/poojarathore30/student_managemnet_system-JDBC/blob/master/images/sms5.PNG)
 
 	  
 
