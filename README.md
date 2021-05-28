@@ -44,7 +44,7 @@
 ![](https://github.com/poojarathore30/student_managemnet_system-JDBC/blob/master/images/sms5.PNG)
 
 # HighLevel Architecture
-<img src="https://github.com/poojarathore30/student_management_system_JDBC/blob/master/ARCHITECTURE.pngg" alt="drawing" width="200"/>
+![](https://github.com/poojarathore30/student_management_system_JDBC/blob/master/ARCHITECTURE.png)
 
 
 
