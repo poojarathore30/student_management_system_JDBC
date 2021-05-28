@@ -17,19 +17,19 @@
        - Footer creation
        - Navmenu bar creation
 
-### -JSP follow-ups
+### JSP follow-ups
          - HTML form creation
          - validation using Javascript
          - DOM
          - alert msg
          - innerHTML msg
-### JEE MVC architecture Highlevel Explanation
+### J2EE MVC architecture Highlevel Explanation
           - J2EE MVC pattern
           - Form object
           - VO object
           - BO object
           - DTO object
-### SErvelet developement
+### Servelet developement
 ### JDBC connection
 ### addStudentController, StudentService and StudentDao development
 ### view_all_students.jsp DEveleopment
