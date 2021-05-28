@@ -43,7 +43,8 @@
 ![](https://github.com/poojarathore30/student_managemnet_system-JDBC/blob/master/images/sms4.PNG)
 ![](https://github.com/poojarathore30/student_managemnet_system-JDBC/blob/master/images/sms5.PNG)
 
-	  
+# HighLevel Architecture
+![](https://github.com/poojarathore30/student_management_system_JDBC/blob/master/ARCHITECTURE.png)
 
 
 
